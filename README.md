@@ -7,3 +7,4 @@ because this file is used to extract the face part from the image or from the vi
 
 3.This prject is implemented using Python programming language because Python provides various libraries which helps in creating projects especialy for machine learning Python is 
 the best.
+
